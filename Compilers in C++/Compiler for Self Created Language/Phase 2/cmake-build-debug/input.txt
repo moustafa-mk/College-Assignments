@@ -1,0 +1,12 @@
+{1 + 2 + 3 + 1 + 2 + 3 + 1 + 2 + 3 = 18}
+n:=3;
+sum:=0;
+for i from 1 to 3*n inc 1
+startfor
+    for j from 1 to n inc 1
+    startfor
+        i:=i+1;
+        sum:=sum+j
+    endfor
+endfor;
+write sum

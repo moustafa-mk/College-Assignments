@@ -1,0 +1,3 @@
+/media/moustafa/01D110BEA399A080/FCI/3rd year 2nd sem/parallel/assignments/assignment_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/moustafa/01D110BEA399A080/FCI/3rd year 2nd sem/parallel/assignments/assignment_1/cmake-build-debug/CMakeFiles/assignment_1.dir
+/media/moustafa/01D110BEA399A080/FCI/3rd year 2nd sem/parallel/assignments/assignment_1/cmake-build-debug/CMakeFiles/edit_cache.dir

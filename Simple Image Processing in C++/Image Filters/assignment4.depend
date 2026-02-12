@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1523654162 source:/media/moustafa/01D110BEA399A080/FCI/Prog1/Assignments/assignment4/main.cpp
+	<iostream>
+	"bmplib.h"
+	<cstring>
+	<cmath>
+
+1522247228 /media/moustafa/01D110BEA399A080/FCI/Prog1/Assignments/assignment4/bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522247063 /media/moustafa/01D110BEA399A080/FCI/Prog1/Assignments/assignment4/bmplib.h
+
+1522247228 source:/media/moustafa/01D110BEA399A080/FCI/Prog1/Assignments/assignment4/bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522247228 source:d:\fci\prog1\assignments\assignment4\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522247063 d:\fci\prog1\assignments\assignment4\bmplib.h
+
+1524409111 source:d:\fci\prog1\assignments\assignment4\main.cpp
+	<iostream>
+	"bmplib.cpp"
+	<cstring>
+	<cmath>
+	<conio.h>
+
+1524235884 d:\fci\prog1\assignments\assignment4\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1524407730 source:d:\fci\prog1\assignments\assignment4\ass4-bonus (1).cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<cmath>
+	<conio.h>
+	"bmplib.cpp"
+

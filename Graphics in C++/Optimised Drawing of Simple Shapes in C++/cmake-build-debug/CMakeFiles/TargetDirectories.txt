@@ -1,0 +1,3 @@
+F:/FCI/3rd year 2nd sem/Graphics/Assignments/Task2/cmake-build-debug/CMakeFiles/Task2.dir
+F:/FCI/3rd year 2nd sem/Graphics/Assignments/Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/FCI/3rd year 2nd sem/Graphics/Assignments/Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

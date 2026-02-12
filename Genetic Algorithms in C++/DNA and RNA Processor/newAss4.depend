@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1544478191 source:c:\fci\second year\programming2\assignments\newass4\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544478248 c:\fci\second year\programming2\assignments\newass4\include\codonstable.h
+	<iostream>
+	<fstream>
+
+1544479602 source:c:\fci\second year\programming2\assignments\newass4\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+
+1544478032 c:\fci\second year\programming2\assignments\newass4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<bits/stdc++.h>
+	<algorithm>
+
+1544479544 c:\fci\second year\programming2\assignments\newass4\include\sequence.h
+
+1544478057 c:\fci\second year\programming2\assignments\newass4\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544478165 c:\fci\second year\programming2\assignments\newass4\include\protein.h
+	"Sequence.h"
+
+1544478162 source:c:\fci\second year\programming2\assignments\newass4\src\protein.cpp
+	"Protein.h"
+	"Sequence.h"
+
+1544478094 source:c:\fci\second year\programming2\assignments\newass4\src\rna.cpp
+	"RNA.h"
+	"Sequence.h"
+
+1544480176 source:c:\fci\second year\programming2\assignments\newass4\src\sequence.cpp
+	"Sequence.h"
+
+1544480584 source:c:\fci\second year\programming2\assignments\newass4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<Sequence.h>
+	<DNA.h>
+	<RNA.h>
+	<Protein.h>
+	<CodonsTable.h>
+	<conio.h>
+
+1544529893 source:c:\users\olasa\onedrive\desktop\test\newass4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<Sequence.h>
+	<DNA.h>
+	<RNA.h>
+	<Protein.h>
+	<CodonsTable.h>
+	<conio.h>
+
+1544439946 c:\users\olasa\onedrive\desktop\test\newass4\include\sequence.h
+
+1544438434 c:\users\olasa\onedrive\desktop\test\newass4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<bits/stdc++.h>
+	<algorithm>
+
+1544528392 c:\users\olasa\onedrive\desktop\test\newass4\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544438566 c:\users\olasa\onedrive\desktop\test\newass4\include\protein.h
+	"Sequence.h"
+
+1544463866 c:\users\olasa\onedrive\desktop\test\newass4\include\codonstable.h
+	<iostream>
+	<fstream>
+
+1544463826 source:c:\users\olasa\onedrive\desktop\test\newass4\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544530437 source:c:\users\olasa\onedrive\desktop\test\newass4\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+
+1544438564 source:c:\users\olasa\onedrive\desktop\test\newass4\src\protein.cpp
+	"Protein.h"
+	"Sequence.h"
+
+1544479762 source:c:\users\olasa\onedrive\desktop\test\newass4\src\rna.cpp
+	"RNA.h"
+	"Sequence.h"
+
+1544464836 source:c:\users\olasa\onedrive\desktop\test\newass4\src\sequence.cpp
+	"Sequence.h"
+
+1544525241 source:c:\users\olasa\onedrive\desktop\test\new folder\newass4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<Sequence.h>
+	<DNA.h>
+	<RNA.h>
+	<Protein.h>
+	<CodonsTable.h>
+	<conio.h>
+
+1544439946 c:\users\olasa\onedrive\desktop\test\new folder\newass4\include\sequence.h
+
+1544438434 c:\users\olasa\onedrive\desktop\test\new folder\newass4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<bits/stdc++.h>
+	<algorithm>
+
+1544472826 c:\users\olasa\onedrive\desktop\test\new folder\newass4\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544438566 c:\users\olasa\onedrive\desktop\test\new folder\newass4\include\protein.h
+	"Sequence.h"
+
+1544463866 c:\users\olasa\onedrive\desktop\test\new folder\newass4\include\codonstable.h
+	<iostream>
+	<fstream>
+
+1544463826 source:c:\users\olasa\onedrive\desktop\test\new folder\newass4\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544524296 source:c:\users\olasa\onedrive\desktop\test\new folder\newass4\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+
+1544438564 source:c:\users\olasa\onedrive\desktop\test\new folder\newass4\src\protein.cpp
+	"Protein.h"
+	"Sequence.h"
+
+1544464836 source:c:\users\olasa\onedrive\desktop\test\new folder\newass4\src\sequence.cpp
+	"Sequence.h"
+
+1544524694 source:c:\users\olasa\onedrive\desktop\test\new folder\newass4\src\rna.cpp
+	"RNA.h"
+	"Sequence.h"
+
+1544554587 source:c:\users\olasa\onedrive\desktop\newass4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<Sequence.h>
+	<DNA.h>
+	<RNA.h>
+	<Protein.h>
+	<CodonsTable.h>
+	<conio.h>
+
+1544439946 c:\users\olasa\onedrive\desktop\newass4\include\sequence.h
+
+1544548602 c:\users\olasa\onedrive\desktop\newass4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<bits/stdc++.h>
+	<algorithm>
+
+1544548368 c:\users\olasa\onedrive\desktop\newass4\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544438566 c:\users\olasa\onedrive\desktop\newass4\include\protein.h
+	"Sequence.h"
+
+1544548602 c:\users\olasa\onedrive\desktop\newass4\include\codonstable.h
+	<iostream>
+	<fstream>
+
+1544548602 source:c:\users\olasa\onedrive\desktop\newass4\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544553937 source:c:\users\olasa\onedrive\desktop\newass4\src\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+
+1544438564 source:c:\users\olasa\onedrive\desktop\newass4\src\protein.cpp
+	"Protein.h"
+	"Sequence.h"
+
+1544553937 source:c:\users\olasa\onedrive\desktop\newass4\src\rna.cpp
+	"RNA.h"
+	"Sequence.h"
+
+1544548602 source:c:\users\olasa\onedrive\desktop\newass4\src\sequence.cpp
+	"Sequence.h"
+

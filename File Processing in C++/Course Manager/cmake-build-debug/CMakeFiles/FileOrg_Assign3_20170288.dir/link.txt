@@ -1,0 +1,3 @@
+"D:\Programs\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FileOrg_Assign3_20170288.dir/objects.a
+D:\Programs\MinGW\bin\ar.exe cr CMakeFiles\FileOrg_Assign3_20170288.dir/objects.a @CMakeFiles\FileOrg_Assign3_20170288.dir\objects1.rsp
+D:\Programs\MinGW\bin\g++.exe  -static-libstdc++ -static-libgcc -g   -Wl,--whole-archive CMakeFiles\FileOrg_Assign3_20170288.dir/objects.a -Wl,--no-whole-archive  -o FileOrg_Assign3_20170288.exe -Wl,--out-implib,libFileOrg_Assign3_20170288.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FileOrg_Assign3_20170288.dir\linklibs.rsp

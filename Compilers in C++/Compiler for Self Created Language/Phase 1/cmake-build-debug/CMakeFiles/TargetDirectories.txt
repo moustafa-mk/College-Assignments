@@ -1,0 +1,3 @@
+/media/moustafa/HDD/FCI/4th year 2nd sem/Compilers/Assignment2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/moustafa/HDD/FCI/4th year 2nd sem/Compilers/Assignment2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/moustafa/HDD/FCI/4th year 2nd sem/Compilers/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir

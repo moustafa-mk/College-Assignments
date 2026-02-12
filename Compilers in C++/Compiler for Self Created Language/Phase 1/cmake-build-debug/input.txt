@@ -1,0 +1,5 @@
+{ Testcase 10
+}
+real x;
+read x; {input an integer to pass}
+write x

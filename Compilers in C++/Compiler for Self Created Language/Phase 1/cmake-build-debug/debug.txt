@@ -1,0 +1,40 @@
+Start StmtSeq
+Start Stmt
+Start DeclareStmt
+Start Match
+[3] x (ID)
+Start Match
+[3] ; (SemiColon)
+End DeclareStmt
+End Stmt
+Start Match
+[4] read (Read)
+Start Stmt
+Start ReadStmt
+Start Match
+[4] x (ID)
+Start Match
+[4] ; (SemiColon)
+End ReadStmt
+End Stmt
+Start Match
+[5] write (Write)
+Start Stmt
+Start WriteStmt
+Start Match
+[5] x (ID)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[5]  (EndFile)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+End WriteStmt
+End Stmt
+End StmtSeq

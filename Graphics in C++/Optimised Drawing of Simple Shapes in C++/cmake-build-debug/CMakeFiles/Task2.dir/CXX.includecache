@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/FCI/3rd year 2nd sem/Graphics/Assignments/Task2/main.cpp
+windows.h
+-
+windowsx.h
+-
+cmath
+-
+algorithm
+-
+afxres.h
+-
+winver.h
+-
+winsvc.h
+-
+

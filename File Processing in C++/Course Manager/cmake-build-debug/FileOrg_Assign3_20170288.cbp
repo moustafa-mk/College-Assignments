@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FileOrg_Assign3_20170288"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileOrg_Assign3_20170288">
+				<Option output="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/FileOrg_Assign3_20170288.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileOrg_Assign3_20170288"/>
+					<CompileFile command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileOrg_Assign3_20170288/fast">
+				<Option output="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/FileOrg_Assign3_20170288.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\programs\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileOrg_Assign3_20170288/fast"/>
+					<CompileFile command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/MinGW/bin/mingw32-make.exe -f &quot;D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/Course.cpp">
+			<Option target="FileOrg_Assign3_20170288"/>
+		</Unit>
+		<Unit filename="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/Course.h">
+			<Option target="FileOrg_Assign3_20170288"/>
+		</Unit>
+		<Unit filename="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/main.cpp">
+			<Option target="FileOrg_Assign3_20170288"/>
+		</Unit>
+		<Unit filename="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/prIndex.h">
+			<Option target="FileOrg_Assign3_20170288"/>
+		</Unit>
+		<Unit filename="D:/OLD-E/FCI/Prog1/Assignments/FileOrg_Assign3_20170288/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

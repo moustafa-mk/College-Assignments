@@ -1,0 +1,30 @@
+void blur(){
+    int mult1[9], mult2[9] = {1, 2, 1, 2, 4, 2, 1, 2, 1}, blurred[SIZE][SIZE];
+    lpim{
+        int l = 0;
+        for(int x=-1; x<2; x++){
+            for(int y=-1; y<2; y++){
+                int nx = i + x;
+                int ny = j + y;
+                //cout << nx << " " << i << endl; //<< " " << ny << " " << j << endl;
+                if(nx < 0 || ny < 0 || nx > 255 || ny > 255)
+                    mult1[l] = 0;
+                else
+                    mult1[l] = image[nx][ny];
+                l++;
+            }
+        }
+
+        int sum = 0;
+        for(size_t k=0; k<9; k++){
+            sum += mult1[k] * mult2[k];
+            //cout << mult1[k] << endl;
+        }
+        //cout << endl;
+        sum /= 9;
+        if(sum > 255) sum = 255;
+        blurred[i][j] = sum;
+        //cout << "sum " << sum << " " << i << " " << j << endl;
+    }}
+    saveArr(blurred);
+}

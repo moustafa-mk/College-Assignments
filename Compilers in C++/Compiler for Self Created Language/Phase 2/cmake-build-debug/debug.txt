@@ -1,0 +1,240 @@
+Start StmtSeq
+Start Stmt
+Start AssignStmt
+Start Match
+[2] := (Assign)
+Start Match
+[2] 3 (Num)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[2] ; (SemiColon)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+End AssignStmt
+End Stmt
+Start Match
+[3] sum (ID)
+Start Stmt
+Start AssignStmt
+Start Match
+[3] := (Assign)
+Start Match
+[3] 0 (Num)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[3] ; (SemiColon)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+End AssignStmt
+End Stmt
+Start Match
+[4] for (For)
+Start Stmt
+Start ForStmt
+Start Match
+[4] i (ID)
+Start Match
+[4] from (From)
+Start Match
+[4] 1 (Num)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[4] to (To)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+Start Match
+[4] 3 (Num)
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[4] * (Times)
+End NewExpr
+End Factor
+Start Match
+[4] n (ID)
+Start Factor
+Start NewExpr
+Start Match
+[4] inc (Inc)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+Start Match
+[4] 1 (Num)
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[5] startfor (StartFor)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+Start Match
+[6] for (For)
+Start StmtSeq
+Start Stmt
+Start ForStmt
+Start Match
+[6] j (ID)
+Start Match
+[6] from (From)
+Start Match
+[6] 1 (Num)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[6] to (To)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+Start Match
+[6] n (ID)
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[6] inc (Inc)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+Start Match
+[6] 1 (Num)
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[7] startfor (StartFor)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+Start Match
+[8] i (ID)
+Start StmtSeq
+Start Stmt
+Start AssignStmt
+Start Match
+[8] := (Assign)
+Start Match
+[8] i (ID)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[8] + (Plus)
+End NewExpr
+End Factor
+End Term
+Start Match
+[8] 1 (Num)
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[8] ; (SemiColon)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+End AssignStmt
+End Stmt
+Start Match
+[9] sum (ID)
+Start Stmt
+Start AssignStmt
+Start Match
+[9] := (Assign)
+Start Match
+[9] sum (ID)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[9] + (Plus)
+End NewExpr
+End Factor
+End Term
+Start Match
+[9] j (ID)
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[10] endfor (EndFor)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+End AssignStmt
+End Stmt
+End StmtSeq
+Start Match
+[11] endfor (EndFor)
+End ForStmt
+End Stmt
+End StmtSeq
+Start Match
+[11] ; (SemiColon)
+End ForStmt
+End Stmt
+Start Match
+[12] write (Write)
+Start Stmt
+Start WriteStmt
+Start Match
+[12] sum (ID)
+Start Expr
+Start MathExpr
+Start Term
+Start Factor
+Start NewExpr
+Start Match
+[12]  (EndFile)
+End NewExpr
+End Factor
+End Term
+End MathExpr
+End Expr
+End WriteStmt
+End Stmt
+End StmtSeq
